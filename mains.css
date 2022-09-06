@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center;
+   margin-top: 10px;
+}
+#grocerySection {
+    text-align: center;
+   padding-top: 20px;
+}
+#addList {
+    background-color: blue;
+    color: white;
+}
+#removeList {
+    background-color: red;
+    color: black;
+}
+#groceryList {
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    width: 475px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
